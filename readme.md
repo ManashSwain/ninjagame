@@ -15,5 +15,5 @@ This is a simple game built using Kaboom.js, a powerful and easy-to-use JavaScri
 - Basic understanding of HTML, CSS, and JavaScript.
 - A modern web browser for playing the game.
 
-Livelink : 
+Livelink : https://ninjagame-one.vercel.app/
 
